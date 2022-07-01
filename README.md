@@ -1,4 +1,4 @@
-# TinDog-Start-master
+# TinDog
 
 Technologies used : HTML, CSS, Bootstrap
 
