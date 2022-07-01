@@ -1,10 +1,10 @@
 # TinDog-Start-master
 
+Technologies used : HTML, CSS, Bootstrap
+
 Website Link : https://sriramsanthosh.github.io/TinDog-Start-master/
 
-
-****Responsiveness :****
-
+# Responsiveness
 
 **On PC / Laptop :**
 
